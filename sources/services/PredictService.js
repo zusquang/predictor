@@ -1,4 +1,3 @@
-
 var PersistHelper = require( "./PersistHelper.js" );
 var persist = new PersistHelper();
 

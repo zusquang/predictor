@@ -16,7 +16,6 @@ PersistHelper.prototype.init = function(){
         if(error) {
             that.emit("connect_fail", error);  
         } else {
-            that.connection = connection;
             that.emit("connect_success", connection);
         }
     })
