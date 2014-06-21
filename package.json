@@ -1,0 +1,11 @@
+{
+    "name": "GrabTaxi",
+    "version": "0.0.1",
+    "description": "The engine prediction.",
+    "engines": {
+        "node": ">=0.10.0"
+    },
+    "scripts": {
+        "test": "mocha -R list"
+    }
+}
